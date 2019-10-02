@@ -29,6 +29,8 @@ INSERT INTO #dataLabel
 		(RowID, Col01)
 	VALUES
 		('5fcfa609-472b-4b2f-8b26-756a95870475', 'Any'),
+		('f7359d72-750e-4f1f-abe9-a69f72a3b521', 'Canada - CPP contribution rates, maximums and exemptions'),
+		('a363ae33-2d20-472a-a04f-ff3383c51fae', 'Labour'),
 		('8af87405-e685-4e3c-a898-c43f1a095581', 'Year'),
 		('768fbd91-155d-4a30-bdd0-71696a2353c2', 'Maximum annual pensionable earnings'),
 		('c27ecfa8-d15b-4de3-884d-370d390eca0e', 'Basic exemption amount'),
@@ -109,13 +111,26 @@ SELECT
 
 SELECT
 		RowID,
-		Col05
+		null [Division],
+		'f7359d72-750e-4f1f-abe9-a69f72a3b521' [Collection],
+		Col01 [Revision],
+		'a363ae33-2d20-472a-a04f-ff3383c51fae' [Type],
+		null [Scope],
+		null [Subscope],
+		null [Meter],
+		null [Measure],
+		'afe888a8-7b2c-42d7-aedc-0905e3f581c5' [Data.Name],
+		Col04 [Data.Value],
+		'8c2579db-6a50-4528-b122-9b68c9015ab1' [Data.Name],
+		Col05 [Data.Value]
+
+
 	from
 		#dataSource
 	order by
 		Col01
 	FOR
-		JSON AUTO
+		JSON PATH
 ;
 
 go
