@@ -1,0 +1,380 @@
+[
+    {
+        "RowID": "D4B4E42A-03E6-4B3E-9824-529E7CAC71D3",
+        "Revision": 1966,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 1.800
+    },
+    {
+        "RowID": "99EEF096-5107-412E-BDD2-DC6ED48C5E7E",
+        "Revision": 1967,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 1.800
+    },
+    {
+        "RowID": "ED5FDC06-775B-495D-92E2-C20A9F1D135D",
+        "Revision": 1968,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 1.800
+    },
+    {
+        "RowID": "94A108BB-F295-4BD0-B86E-F859AF097F89",
+        "Revision": 1969,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 1.800
+    },
+    {
+        "RowID": "9C7D95A0-87FA-41AC-9C5E-C6A5A7512538",
+        "Revision": 1970,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 1.800
+    },
+    {
+        "RowID": "95486BC1-BA66-4CC1-A6B0-3D49AB399E85",
+        "Revision": 1971,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 1.800
+    },
+    {
+        "RowID": "A081C979-0EBA-4F76-9B99-F5EBAF86CB31",
+        "Revision": 1972,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 1.800
+    },
+    {
+        "RowID": "CA2A737C-3F4F-4235-848B-01AFFBAD748A",
+        "Revision": 1973,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 1.800
+    },
+    {
+        "RowID": "3DC332C9-BC72-4D36-A1C0-DF03B8D015F0",
+        "Revision": 1974,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 1.800
+    },
+    {
+        "RowID": "AEE612B0-3339-4B19-A995-7EF9D1C800C5",
+        "Revision": 1975,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 1.800
+    },
+    {
+        "RowID": "399460EC-ED83-4787-8FE9-958609E4D140",
+        "Revision": 1976,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 1.800
+    },
+    {
+        "RowID": "DDCE3CFD-E57C-4933-BE2D-BBCB38D55256",
+        "Revision": 1977,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 1.800
+    },
+    {
+        "RowID": "6E99CBCE-66E7-408F-ACBD-C59BEE29502A",
+        "Revision": 1978,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 1.800
+    },
+    {
+        "RowID": "DA018427-FD50-421B-80E1-D510DCA5BA87",
+        "Revision": 1979,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 1.800
+    },
+    {
+        "RowID": "AABC0FE6-E21A-4F99-A087-C66D5104CF28",
+        "Revision": 1980,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 1.800
+    },
+    {
+        "RowID": "D393C864-FA24-47C4-BD88-671BCDFB6C5D",
+        "Revision": 1981,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 1.800
+    },
+    {
+        "RowID": "42D73C49-8DC1-4A8C-871B-35D214882D34",
+        "Revision": 1982,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 1.800
+    },
+    {
+        "RowID": "FCC89E2D-ABFE-4FBC-9935-9558FC9A5678",
+        "Revision": 1983,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 1.800
+    },
+    {
+        "RowID": "6D2F1EC0-F526-408C-9D20-928D32C084E1",
+        "Revision": 1984,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 1.800
+    },
+    {
+        "RowID": "2CBD429B-AF6A-4268-BBFC-2FF151F67C0B",
+        "Revision": 1985,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 1.800
+    },
+    {
+        "RowID": "73DD7BFF-7E13-4514-BE67-E12D7BF7EFED",
+        "Revision": 1986,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 1.800
+    },
+    {
+        "RowID": "D5379FA9-EEFA-4750-A891-CD662F9D4FE8",
+        "Revision": 1987,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 1.900
+    },
+    {
+        "RowID": "FC29CC42-30F2-469A-B006-766C3B0E83F3",
+        "Revision": 1988,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 2.000
+    },
+    {
+        "RowID": "D66B4E8A-BA05-4909-8CEC-7D4BE16A8F32",
+        "Revision": 1989,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 2.100
+    },
+    {
+        "RowID": "D6635F02-CD78-4B2D-A457-C461F29BD27A",
+        "Revision": 1990,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 2.200
+    },
+    {
+        "RowID": "9B7391C1-68FA-42FB-A5BA-D7DFEAE0E1CC",
+        "Revision": 1991,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 2.300
+    },
+    {
+        "RowID": "18188F60-9B79-4467-90B2-157AB29B8D99",
+        "Revision": 1992,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 2.400
+    },
+    {
+        "RowID": "F9D4C19F-00A6-4A18-AF22-94CBA24CDB7B",
+        "Revision": 1993,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 2.500
+    },
+    {
+        "RowID": "D7217862-3E9A-4C18-9CA1-50B5487ACE02",
+        "Revision": 1994,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 2.600
+    },
+    {
+        "RowID": "78165338-894A-4C6B-B875-739E2CFBFFD2",
+        "Revision": 1995,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 2.700
+    },
+    {
+        "RowID": "3211518D-0E63-4E5E-B933-975905D22CE7",
+        "Revision": 1996,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 2.800
+    },
+    {
+        "RowID": "B70DDF07-2FB5-4AB8-9E16-D67880E13CF4",
+        "Revision": 1997,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 2.925
+    },
+    {
+        "RowID": "ECC15CBE-2A97-4C83-8255-084A93D7D231",
+        "Revision": 1998,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 3.200
+    },
+    {
+        "RowID": "5C1908CA-3C55-4230-A39E-02C009E53DA6",
+        "Revision": 1999,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 3.500
+    },
+    {
+        "RowID": "95D8AB39-F59B-4AA3-A0A3-FD060EA5D649",
+        "Revision": 2000,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 3.900
+    },
+    {
+        "RowID": "BE900EF4-7522-4752-8C4F-CDF11925BA9F",
+        "Revision": 2001,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 4.300
+    },
+    {
+        "RowID": "A004AEA5-2E5C-47A4-A9A6-84C2A8869F6C",
+        "Revision": 2002,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 4.700
+    },
+    {
+        "RowID": "FDA7EA89-F400-4153-9D4C-83581FD47D58",
+        "Revision": 2003,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 4.950
+    },
+    {
+        "RowID": "658B8895-0317-4B5B-A7C4-AADC2608FADE",
+        "Revision": 2004,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 4.950
+    },
+    {
+        "RowID": "51AE29BA-473A-4D9E-9FCE-63B8729168AB",
+        "Revision": 2005,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 4.950
+    },
+    {
+        "RowID": "D1822BA5-E92B-4DB4-8646-E89B5AC8D642",
+        "Revision": 2006,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 4.950
+    },
+    {
+        "RowID": "70D48315-E654-4587-B9E1-B534997A6D19",
+        "Revision": 2007,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 4.950
+    },
+    {
+        "RowID": "13F2919D-5CB2-4FD7-8C5D-91EC1E9F31CA",
+        "Revision": 2008,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 4.950
+    },
+    {
+        "RowID": "D43E9615-6D03-4D25-81C9-A2CD93CC65C2",
+        "Revision": 2009,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 4.950
+    },
+    {
+        "RowID": "0276D7F2-E6D4-4041-817D-CE0F9DC2ACD2",
+        "Revision": 2010,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 4.950
+    },
+    {
+        "RowID": "65F84195-EA46-4E01-9EB6-CD222DF62C54",
+        "Revision": 2011,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 4.950
+    },
+    {
+        "RowID": "E231EF73-D8E7-437B-851C-C535FA62B389",
+        "Revision": 2012,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 4.950
+    },
+    {
+        "RowID": "19BA3641-EB58-4B6A-A4A1-531DF0A8B991",
+        "Revision": 2013,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 4.950
+    },
+    {
+        "RowID": "D822E090-14EA-4204-809A-780A4F44D3F2",
+        "Revision": 2014,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 4.950
+    },
+    {
+        "RowID": "BC4BCD65-A5EA-43BA-8D4F-1C0155C0AA7F",
+        "Revision": 2015,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 4.950
+    },
+    {
+        "RowID": "DBFA3DB6-7E2C-4ED4-B6BF-5D5F601B808F",
+        "Revision": 2016,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 4.950
+    },
+    {
+        "RowID": "4510D917-80E4-49DE-9A0C-1C458A1633F9",
+        "Revision": 2017,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 4.950
+    },
+    {
+        "RowID": "6E3A603B-17A9-43CB-A3A4-83BA0FF14BBF",
+        "Revision": 2018,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 4.950
+    },
+    {
+        "RowID": "BFEED6E6-63A5-405B-A1AC-552AA62A0F69",
+        "Revision": 2019,
+        "Type": "a363ae33-2d20-472a-a04f-ff3383c51fae",
+        "Component": "8c2579db-6a50-4528-b122-9b68c9015ab1",
+        "Value": 5.100
+    }
+]
