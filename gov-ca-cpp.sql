@@ -11,9 +11,22 @@ CREATE TABLE #dataLabel
    Col01   nvarchar(256)	 not null
 );
 
+INSERT INTO #dataLabel
+		(RowID, Col01)
+	VALUES
+		('f7359d72-750e-4f1f-abe9-a69f72a3b521', 'Canada - CPP contribution rates, maximums and exemptions'),
+		('a363ae33-2d20-472a-a04f-ff3383c51fae', 'Labour'),
+		('768fbd91-155d-4a30-bdd0-71696a2353c2', 'Maximum annual pensionable earnings'),
+		('c27ecfa8-d15b-4de3-884d-370d390eca0e', 'Basic exemption amount'),
+		('afe888a8-7b2c-42d7-aedc-0905e3f581c5', 'Maximum contributory earnings'),
+		('8c2579db-6a50-4528-b122-9b68c9015ab1', 'Employee and employer contribution rate (%)'),
+		('6edfd166-cd4a-4bd2-b7c2-172668088d0c', 'Maximum annual employee and employer contribution'),
+		('75722813-ab86-41d7-8b95-248a7cae5ed2', 'Maximum annualself-employedcontribution')
+;
+
 CREATE TABLE #dataSource
 (
-   RowID   uniqueIdentifier  not null  default newid(),
+   RowID   uniqueIdentifier  not null  default newid(),    
    Col01   int				 not null, -- Year
    Col02   int				 not null, -- Maximum annual pensionable earnings
    Col03   int				 not null, -- Basic exemption amount
@@ -25,20 +38,6 @@ CREATE TABLE #dataSource
 
 go
 
-INSERT INTO #dataLabel
-		(RowID, Col01)
-	VALUES
-		('5fcfa609-472b-4b2f-8b26-756a95870475', 'Any'),
-		('f7359d72-750e-4f1f-abe9-a69f72a3b521', 'Canada - CPP contribution rates, maximums and exemptions'),
-		('a363ae33-2d20-472a-a04f-ff3383c51fae', 'Labour'),
-		('8af87405-e685-4e3c-a898-c43f1a095581', 'Year'),
-		('768fbd91-155d-4a30-bdd0-71696a2353c2', 'Maximum annual pensionable earnings'),
-		('c27ecfa8-d15b-4de3-884d-370d390eca0e', 'Basic exemption amount'),
-		('afe888a8-7b2c-42d7-aedc-0905e3f581c5', 'Maximum contributory earnings'),
-		('8c2579db-6a50-4528-b122-9b68c9015ab1', 'Employee and employer contribution rate (%)'),
-		('6edfd166-cd4a-4bd2-b7c2-172668088d0c', 'Maximum annual employee and employer contribution'),
-		('75722813-ab86-41d7-8b95-248a7cae5ed2', 'Maximum annualself-employedcontribution')
-;
 
 INSERT INTO #dataSource
 		(Col01, Col02, Col03, Col04, Col05, Col06, Col07)
@@ -102,33 +101,117 @@ INSERT INTO #dataSource
 SELECT
 		*
 	from
-		#dataSource
+		#dataLabel
 	order by
 		Col01
-	FOR
-		JSON AUTO
 ;
 
 SELECT
-		RowID,
-		null [Division],
-		'f7359d72-750e-4f1f-abe9-a69f72a3b521' [Collection],
-		Col01 [Revision],
-		'a363ae33-2d20-472a-a04f-ff3383c51fae' [Type],
-		null [Scope],
-		null [Subscope],
-		null [Meter],
-		null [Measure],
-		'afe888a8-7b2c-42d7-aedc-0905e3f581c5' [Data.Name],
-		Col04 [Data.Value],
-		'8c2579db-6a50-4528-b122-9b68c9015ab1' [Data.Name],
-		Col05 [Data.Value]
-
-
+		*
 	from
 		#dataSource
 	order by
 		Col01
+;
+
+SELECT 
+	(SELECT RowID FROM #dataLabel WHERE Col01='Canada - CPP contribution rates, maximums and exemptions') AS [Collection],
+	'https://github.com/DataSourceryIO/data/blob/master/gov-ca-cpp.json' AS [Source],
+	(SELECT RowID FROM #dataLabel WHERE Col01='Labour') [Category],
+	(SELECT RowID, Col01 AS [en-us] FROM #dataLabel FOR JSON PATH) [Names],
+	(
+		SELECT 
+			m.Col01 AS [Version],
+			(
+				SELECT
+					*
+				FROM
+					(
+						SELECT
+							(SELECT RowID FROM #dataLabel WHERE Col01='Maximum annual pensionable earnings') [Name],
+							Col02 [Value],
+							null [Context.Scope],
+							null [Context.Shift],
+							null [Context.Meter]
+						FROM
+							#dataSource d
+						WHERE
+							d.Col01 = m.Col01
+
+						UNION ALL
+
+						SELECT
+							(SELECT RowID FROM #dataLabel WHERE Col01='Basic exemption amount') [Name],
+							Col03 [Value],
+							null [Context.Scope],
+							null [Context.Shift],
+							null [Context.Meter]
+						FROM
+							#dataSource d
+						WHERE
+							d.Col01 = m.Col01
+
+						UNION ALL
+
+						SELECT
+							(SELECT RowID FROM #dataLabel WHERE Col01='Maximum contributory earnings') [Name],
+							Col04 [Value],
+							null [Context.Scope],
+							null [Context.Shift],
+							null [Context.Meter]
+						FROM
+							#dataSource d
+						WHERE
+							d.Col01 = m.Col01
+
+						UNION ALL
+
+						SELECT
+							(SELECT RowID FROM #dataLabel WHERE Col01='Employee and employer contribution rate (%)') [Name],
+							Col05 [Value],
+							null [Context.Scope],
+							null [Context.Shift],
+							null [Context.Meter]
+						FROM
+							#dataSource d
+						WHERE
+							d.Col01 = m.Col01
+
+
+						UNION ALL
+
+						SELECT
+							(SELECT RowID FROM #dataLabel WHERE Col01='Maximum annual employee and employer contribution') [Name],
+							Col06 [Value],
+							null [Context.Scope],
+							null [Context.Shift],
+							null [Context.Meter]
+						FROM
+							#dataSource d
+						WHERE
+							d.Col01 = m.Col01
+
+						UNION ALL
+
+						SELECT
+							(SELECT RowID FROM #dataLabel WHERE Col01='Maximum annualself-employedcontribution') [Name],
+							Col07 [Value],
+							null [Context.Scope],
+							null [Context.Shift],
+							null [Context.Meter]
+						FROM
+							#dataSource d
+						WHERE
+							d.Col01 = m.Col01
+					) t
+				FOR
+					JSON PATH
+			) [Values]
+			FROM
+				#dataSource m	
+		FOR 
+			JSON PATH
+	) Versions
 	FOR
 		JSON PATH
 ;
