@@ -1,0 +1,2978 @@
+[
+    {
+        "Collection": "B02A59B6-ED51-4501-AE0B-0BE1BA409EAD",
+        "Source": "https:\/\/github.com\/DataSourceryIO\/data\/blob\/master\/crla-ca-ab-labourers.json",
+        "Category": "A363AE33-2D20-472A-A04F-FF3383C51FAE",
+        "Names": [
+            {
+                "RowID": "A363AE33-2D20-472A-A04F-FF3383C51FAE",
+                "en-us": "Labour"
+            },
+            {
+                "RowID": "648BA67E-8682-420F-B02E-D88E042E1664",
+                "en-us": "Base Rate"
+            },
+            {
+                "RowID": "6AE63D1C-AB30-43D3-9FAA-A77419769F34",
+                "en-us": "Holiday and Vacation"
+            },
+            {
+                "RowID": "D18B89A0-FF18-47C4-831E-F1CF2333EEEE",
+                "en-us": "Health and Welfare"
+            },
+            {
+                "RowID": "5E827528-442E-4022-A6B2-0179D83975C6",
+                "en-us": "Pension"
+            },
+            {
+                "RowID": "C97FA357-7367-4332-BF07-E77E24A0724A",
+                "en-us": "Training"
+            },
+            {
+                "RowID": "5A29070C-0E81-433D-8132-E333C29D4DCC",
+                "en-us": "Gross Rate"
+            },
+            {
+                "RowID": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                "en-us": "Shift Premium"
+            },
+            {
+                "RowID": "D9466448-6510-4F41-A0AE-43C77F8224F5",
+                "en-us": "Straight-time"
+            },
+            {
+                "RowID": "9A3F4597-8DC5-4122-ABCF-D2FC1F756731",
+                "en-us": "Second shift"
+            },
+            {
+                "RowID": "437D44D8-B37A-4F60-AA88-A4236F3E5BEC",
+                "en-us": "Third shift"
+            },
+            {
+                "RowID": "A687F373-502B-4A1C-8AB3-E7DF4A40ECA0",
+                "en-us": "% of Certified Construction Craft Labourer Rate"
+            },
+            {
+                "RowID": "B02A59B6-ED51-4501-AE0B-0BE1BA409EAD",
+                "en-us": "Part A (Industrial)"
+            },
+            {
+                "RowID": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                "en-us": "Certified Construction Craft Labourer"
+            },
+            {
+                "RowID": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                "en-us": "Uncertified Labourer"
+            },
+            {
+                "RowID": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                "en-us": "Trainee 3"
+            },
+            {
+                "RowID": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                "en-us": "Trainee 2"
+            },
+            {
+                "RowID": "F74E071A-FE30-4912-8A39-992A570828A8",
+                "en-us": "Trainee 1"
+            }
+        ],
+        "Versions": [
+            {
+                "Version": 1,
+                "ValidFrom": "2015-05-03",
+                "ValidTo": "2015-10-31",
+                "Values": [
+                    {
+                        "Name": "A687F373-502B-4A1C-8AB3-E7DF4A40ECA0",
+                        "Value": "1.000",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB"
+                        }
+                    },
+                    {
+                        "Name": "A687F373-502B-4A1C-8AB3-E7DF4A40ECA0",
+                        "Value": "0.930",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C"
+                        }
+                    },
+                    {
+                        "Name": "A687F373-502B-4A1C-8AB3-E7DF4A40ECA0",
+                        "Value": "0.850",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7"
+                        }
+                    },
+                    {
+                        "Name": "A687F373-502B-4A1C-8AB3-E7DF4A40ECA0",
+                        "Value": "0.750",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504"
+                        }
+                    },
+                    {
+                        "Name": "A687F373-502B-4A1C-8AB3-E7DF4A40ECA0",
+                        "Value": "0.650",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8"
+                        }
+                    },
+                    {
+                        "Name": "648BA67E-8682-420F-B02E-D88E042E1664",
+                        "Value": "35.74",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "648BA67E-8682-420F-B02E-D88E042E1664",
+                        "Value": "33.24",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "648BA67E-8682-420F-B02E-D88E042E1664",
+                        "Value": "30.38",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "648BA67E-8682-420F-B02E-D88E042E1664",
+                        "Value": "26.81",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "648BA67E-8682-420F-B02E-D88E042E1664",
+                        "Value": "23.23",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "6AE63D1C-AB30-43D3-9FAA-A77419769F34",
+                        "Value": "3.57",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "6AE63D1C-AB30-43D3-9FAA-A77419769F34",
+                        "Value": "3.32",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "6AE63D1C-AB30-43D3-9FAA-A77419769F34",
+                        "Value": "3.04",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "6AE63D1C-AB30-43D3-9FAA-A77419769F34",
+                        "Value": "2.68",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "6AE63D1C-AB30-43D3-9FAA-A77419769F34",
+                        "Value": "2.32",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "D18B89A0-FF18-47C4-831E-F1CF2333EEEE",
+                        "Value": "2.06",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "D18B89A0-FF18-47C4-831E-F1CF2333EEEE",
+                        "Value": "2.06",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "D18B89A0-FF18-47C4-831E-F1CF2333EEEE",
+                        "Value": "2.06",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "D18B89A0-FF18-47C4-831E-F1CF2333EEEE",
+                        "Value": "2.06",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "D18B89A0-FF18-47C4-831E-F1CF2333EEEE",
+                        "Value": "2.06",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5E827528-442E-4022-A6B2-0179D83975C6",
+                        "Value": "5.06",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5E827528-442E-4022-A6B2-0179D83975C6",
+                        "Value": "5.06",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5E827528-442E-4022-A6B2-0179D83975C6",
+                        "Value": "4.30",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5E827528-442E-4022-A6B2-0179D83975C6",
+                        "Value": "3.80",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5E827528-442E-4022-A6B2-0179D83975C6",
+                        "Value": "3.29",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "C97FA357-7367-4332-BF07-E77E24A0724A",
+                        "Value": "0.45",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "C97FA357-7367-4332-BF07-E77E24A0724A",
+                        "Value": "0.45",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "C97FA357-7367-4332-BF07-E77E24A0724A",
+                        "Value": "0.45",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "C97FA357-7367-4332-BF07-E77E24A0724A",
+                        "Value": "0.45",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "C97FA357-7367-4332-BF07-E77E24A0724A",
+                        "Value": "0.45",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5A29070C-0E81-433D-8132-E333C29D4DCC",
+                        "Value": "46.88",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5A29070C-0E81-433D-8132-E333C29D4DCC",
+                        "Value": "44.13",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5A29070C-0E81-433D-8132-E333C29D4DCC",
+                        "Value": "40.23",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5A29070C-0E81-433D-8132-E333C29D4DCC",
+                        "Value": "35.80",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5A29070C-0E81-433D-8132-E333C29D4DCC",
+                        "Value": "31.35",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Shift": "9A3F4597-8DC5-4122-ABCF-D2FC1F756731"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Shift": "9A3F4597-8DC5-4122-ABCF-D2FC1F756731"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Shift": "9A3F4597-8DC5-4122-ABCF-D2FC1F756731"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Shift": "9A3F4597-8DC5-4122-ABCF-D2FC1F756731"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Shift": "9A3F4597-8DC5-4122-ABCF-D2FC1F756731"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Shift": "437D44D8-B37A-4F60-AA88-A4236F3E5BEC"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Shift": "437D44D8-B37A-4F60-AA88-A4236F3E5BEC"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Shift": "437D44D8-B37A-4F60-AA88-A4236F3E5BEC"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Shift": "437D44D8-B37A-4F60-AA88-A4236F3E5BEC"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Shift": "437D44D8-B37A-4F60-AA88-A4236F3E5BEC"
+                        }
+                    }
+                ]
+            },
+            {
+                "Version": 2,
+                "ValidFrom": "2015-11-01",
+                "ValidTo": "2016-04-30",
+                "Values": [
+                    {
+                        "Name": "A687F373-502B-4A1C-8AB3-E7DF4A40ECA0",
+                        "Value": "1.000",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB"
+                        }
+                    },
+                    {
+                        "Name": "A687F373-502B-4A1C-8AB3-E7DF4A40ECA0",
+                        "Value": "0.930",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C"
+                        }
+                    },
+                    {
+                        "Name": "A687F373-502B-4A1C-8AB3-E7DF4A40ECA0",
+                        "Value": "0.850",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7"
+                        }
+                    },
+                    {
+                        "Name": "A687F373-502B-4A1C-8AB3-E7DF4A40ECA0",
+                        "Value": "0.750",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504"
+                        }
+                    },
+                    {
+                        "Name": "A687F373-502B-4A1C-8AB3-E7DF4A40ECA0",
+                        "Value": "0.650",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8"
+                        }
+                    },
+                    {
+                        "Name": "648BA67E-8682-420F-B02E-D88E042E1664",
+                        "Value": "35.74",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "648BA67E-8682-420F-B02E-D88E042E1664",
+                        "Value": "33.24",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "648BA67E-8682-420F-B02E-D88E042E1664",
+                        "Value": "30.38",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "648BA67E-8682-420F-B02E-D88E042E1664",
+                        "Value": "26.81",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "648BA67E-8682-420F-B02E-D88E042E1664",
+                        "Value": "23.23",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "6AE63D1C-AB30-43D3-9FAA-A77419769F34",
+                        "Value": "3.57",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "6AE63D1C-AB30-43D3-9FAA-A77419769F34",
+                        "Value": "3.32",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "6AE63D1C-AB30-43D3-9FAA-A77419769F34",
+                        "Value": "3.04",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "6AE63D1C-AB30-43D3-9FAA-A77419769F34",
+                        "Value": "2.68",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "6AE63D1C-AB30-43D3-9FAA-A77419769F34",
+                        "Value": "2.32",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "D18B89A0-FF18-47C4-831E-F1CF2333EEEE",
+                        "Value": "2.06",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "D18B89A0-FF18-47C4-831E-F1CF2333EEEE",
+                        "Value": "2.06",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "D18B89A0-FF18-47C4-831E-F1CF2333EEEE",
+                        "Value": "2.06",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "D18B89A0-FF18-47C4-831E-F1CF2333EEEE",
+                        "Value": "2.06",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "D18B89A0-FF18-47C4-831E-F1CF2333EEEE",
+                        "Value": "2.06",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5E827528-442E-4022-A6B2-0179D83975C6",
+                        "Value": "5.06",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5E827528-442E-4022-A6B2-0179D83975C6",
+                        "Value": "5.06",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5E827528-442E-4022-A6B2-0179D83975C6",
+                        "Value": "4.30",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5E827528-442E-4022-A6B2-0179D83975C6",
+                        "Value": "3.80",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5E827528-442E-4022-A6B2-0179D83975C6",
+                        "Value": "3.29",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "C97FA357-7367-4332-BF07-E77E24A0724A",
+                        "Value": "0.45",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "C97FA357-7367-4332-BF07-E77E24A0724A",
+                        "Value": "0.45",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "C97FA357-7367-4332-BF07-E77E24A0724A",
+                        "Value": "0.45",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "C97FA357-7367-4332-BF07-E77E24A0724A",
+                        "Value": "0.45",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "C97FA357-7367-4332-BF07-E77E24A0724A",
+                        "Value": "0.45",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5A29070C-0E81-433D-8132-E333C29D4DCC",
+                        "Value": "46.88",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5A29070C-0E81-433D-8132-E333C29D4DCC",
+                        "Value": "44.13",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5A29070C-0E81-433D-8132-E333C29D4DCC",
+                        "Value": "40.23",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5A29070C-0E81-433D-8132-E333C29D4DCC",
+                        "Value": "35.80",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5A29070C-0E81-433D-8132-E333C29D4DCC",
+                        "Value": "31.35",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Shift": "9A3F4597-8DC5-4122-ABCF-D2FC1F756731"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Shift": "9A3F4597-8DC5-4122-ABCF-D2FC1F756731"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Shift": "9A3F4597-8DC5-4122-ABCF-D2FC1F756731"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Shift": "9A3F4597-8DC5-4122-ABCF-D2FC1F756731"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Shift": "9A3F4597-8DC5-4122-ABCF-D2FC1F756731"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Shift": "437D44D8-B37A-4F60-AA88-A4236F3E5BEC"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Shift": "437D44D8-B37A-4F60-AA88-A4236F3E5BEC"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Shift": "437D44D8-B37A-4F60-AA88-A4236F3E5BEC"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Shift": "437D44D8-B37A-4F60-AA88-A4236F3E5BEC"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Shift": "437D44D8-B37A-4F60-AA88-A4236F3E5BEC"
+                        }
+                    }
+                ]
+            },
+            {
+                "Version": 3,
+                "ValidFrom": "2016-05-01",
+                "ValidTo": "2016-10-31",
+                "Values": [
+                    {
+                        "Name": "A687F373-502B-4A1C-8AB3-E7DF4A40ECA0",
+                        "Value": "1.000",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB"
+                        }
+                    },
+                    {
+                        "Name": "A687F373-502B-4A1C-8AB3-E7DF4A40ECA0",
+                        "Value": "0.930",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C"
+                        }
+                    },
+                    {
+                        "Name": "A687F373-502B-4A1C-8AB3-E7DF4A40ECA0",
+                        "Value": "0.850",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7"
+                        }
+                    },
+                    {
+                        "Name": "A687F373-502B-4A1C-8AB3-E7DF4A40ECA0",
+                        "Value": "0.750",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504"
+                        }
+                    },
+                    {
+                        "Name": "A687F373-502B-4A1C-8AB3-E7DF4A40ECA0",
+                        "Value": "0.650",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8"
+                        }
+                    },
+                    {
+                        "Name": "648BA67E-8682-420F-B02E-D88E042E1664",
+                        "Value": "35.74",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "648BA67E-8682-420F-B02E-D88E042E1664",
+                        "Value": "33.24",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "648BA67E-8682-420F-B02E-D88E042E1664",
+                        "Value": "30.38",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "648BA67E-8682-420F-B02E-D88E042E1664",
+                        "Value": "26.81",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "648BA67E-8682-420F-B02E-D88E042E1664",
+                        "Value": "23.23",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "6AE63D1C-AB30-43D3-9FAA-A77419769F34",
+                        "Value": "3.57",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "6AE63D1C-AB30-43D3-9FAA-A77419769F34",
+                        "Value": "3.32",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "6AE63D1C-AB30-43D3-9FAA-A77419769F34",
+                        "Value": "3.04",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "6AE63D1C-AB30-43D3-9FAA-A77419769F34",
+                        "Value": "2.68",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "6AE63D1C-AB30-43D3-9FAA-A77419769F34",
+                        "Value": "2.32",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "D18B89A0-FF18-47C4-831E-F1CF2333EEEE",
+                        "Value": "2.06",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "D18B89A0-FF18-47C4-831E-F1CF2333EEEE",
+                        "Value": "2.06",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "D18B89A0-FF18-47C4-831E-F1CF2333EEEE",
+                        "Value": "2.06",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "D18B89A0-FF18-47C4-831E-F1CF2333EEEE",
+                        "Value": "2.06",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "D18B89A0-FF18-47C4-831E-F1CF2333EEEE",
+                        "Value": "2.06",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5E827528-442E-4022-A6B2-0179D83975C6",
+                        "Value": "5.06",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5E827528-442E-4022-A6B2-0179D83975C6",
+                        "Value": "5.06",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5E827528-442E-4022-A6B2-0179D83975C6",
+                        "Value": "4.30",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5E827528-442E-4022-A6B2-0179D83975C6",
+                        "Value": "3.80",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5E827528-442E-4022-A6B2-0179D83975C6",
+                        "Value": "3.29",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "C97FA357-7367-4332-BF07-E77E24A0724A",
+                        "Value": "0.45",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "C97FA357-7367-4332-BF07-E77E24A0724A",
+                        "Value": "0.45",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "C97FA357-7367-4332-BF07-E77E24A0724A",
+                        "Value": "0.45",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "C97FA357-7367-4332-BF07-E77E24A0724A",
+                        "Value": "0.45",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "C97FA357-7367-4332-BF07-E77E24A0724A",
+                        "Value": "0.45",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5A29070C-0E81-433D-8132-E333C29D4DCC",
+                        "Value": "46.88",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5A29070C-0E81-433D-8132-E333C29D4DCC",
+                        "Value": "44.13",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5A29070C-0E81-433D-8132-E333C29D4DCC",
+                        "Value": "40.23",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5A29070C-0E81-433D-8132-E333C29D4DCC",
+                        "Value": "35.80",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5A29070C-0E81-433D-8132-E333C29D4DCC",
+                        "Value": "31.35",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Shift": "9A3F4597-8DC5-4122-ABCF-D2FC1F756731"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Shift": "9A3F4597-8DC5-4122-ABCF-D2FC1F756731"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Shift": "9A3F4597-8DC5-4122-ABCF-D2FC1F756731"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Shift": "9A3F4597-8DC5-4122-ABCF-D2FC1F756731"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Shift": "9A3F4597-8DC5-4122-ABCF-D2FC1F756731"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Shift": "437D44D8-B37A-4F60-AA88-A4236F3E5BEC"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Shift": "437D44D8-B37A-4F60-AA88-A4236F3E5BEC"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Shift": "437D44D8-B37A-4F60-AA88-A4236F3E5BEC"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Shift": "437D44D8-B37A-4F60-AA88-A4236F3E5BEC"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Shift": "437D44D8-B37A-4F60-AA88-A4236F3E5BEC"
+                        }
+                    }
+                ]
+            },
+            {
+                "Version": 4,
+                "ValidFrom": "2016-11-01",
+                "ValidTo": "2017-05-06",
+                "Values": [
+                    {
+                        "Name": "A687F373-502B-4A1C-8AB3-E7DF4A40ECA0",
+                        "Value": "1.000",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB"
+                        }
+                    },
+                    {
+                        "Name": "A687F373-502B-4A1C-8AB3-E7DF4A40ECA0",
+                        "Value": "0.930",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C"
+                        }
+                    },
+                    {
+                        "Name": "A687F373-502B-4A1C-8AB3-E7DF4A40ECA0",
+                        "Value": "0.850",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7"
+                        }
+                    },
+                    {
+                        "Name": "A687F373-502B-4A1C-8AB3-E7DF4A40ECA0",
+                        "Value": "0.750",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504"
+                        }
+                    },
+                    {
+                        "Name": "A687F373-502B-4A1C-8AB3-E7DF4A40ECA0",
+                        "Value": "0.650",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8"
+                        }
+                    },
+                    {
+                        "Name": "648BA67E-8682-420F-B02E-D88E042E1664",
+                        "Value": "35.74",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "648BA67E-8682-420F-B02E-D88E042E1664",
+                        "Value": "33.24",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "648BA67E-8682-420F-B02E-D88E042E1664",
+                        "Value": "30.38",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "648BA67E-8682-420F-B02E-D88E042E1664",
+                        "Value": "26.81",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "648BA67E-8682-420F-B02E-D88E042E1664",
+                        "Value": "23.23",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "6AE63D1C-AB30-43D3-9FAA-A77419769F34",
+                        "Value": "3.57",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "6AE63D1C-AB30-43D3-9FAA-A77419769F34",
+                        "Value": "3.32",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "6AE63D1C-AB30-43D3-9FAA-A77419769F34",
+                        "Value": "3.04",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "6AE63D1C-AB30-43D3-9FAA-A77419769F34",
+                        "Value": "2.68",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "6AE63D1C-AB30-43D3-9FAA-A77419769F34",
+                        "Value": "2.32",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "D18B89A0-FF18-47C4-831E-F1CF2333EEEE",
+                        "Value": "2.06",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "D18B89A0-FF18-47C4-831E-F1CF2333EEEE",
+                        "Value": "2.06",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "D18B89A0-FF18-47C4-831E-F1CF2333EEEE",
+                        "Value": "2.06",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "D18B89A0-FF18-47C4-831E-F1CF2333EEEE",
+                        "Value": "2.06",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "D18B89A0-FF18-47C4-831E-F1CF2333EEEE",
+                        "Value": "2.06",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5E827528-442E-4022-A6B2-0179D83975C6",
+                        "Value": "5.06",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5E827528-442E-4022-A6B2-0179D83975C6",
+                        "Value": "5.06",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5E827528-442E-4022-A6B2-0179D83975C6",
+                        "Value": "4.30",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5E827528-442E-4022-A6B2-0179D83975C6",
+                        "Value": "3.80",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5E827528-442E-4022-A6B2-0179D83975C6",
+                        "Value": "3.29",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "C97FA357-7367-4332-BF07-E77E24A0724A",
+                        "Value": "0.45",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "C97FA357-7367-4332-BF07-E77E24A0724A",
+                        "Value": "0.45",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "C97FA357-7367-4332-BF07-E77E24A0724A",
+                        "Value": "0.45",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "C97FA357-7367-4332-BF07-E77E24A0724A",
+                        "Value": "0.45",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "C97FA357-7367-4332-BF07-E77E24A0724A",
+                        "Value": "0.45",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5A29070C-0E81-433D-8132-E333C29D4DCC",
+                        "Value": "46.88",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5A29070C-0E81-433D-8132-E333C29D4DCC",
+                        "Value": "44.13",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5A29070C-0E81-433D-8132-E333C29D4DCC",
+                        "Value": "40.23",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5A29070C-0E81-433D-8132-E333C29D4DCC",
+                        "Value": "35.80",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5A29070C-0E81-433D-8132-E333C29D4DCC",
+                        "Value": "31.35",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Shift": "9A3F4597-8DC5-4122-ABCF-D2FC1F756731"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Shift": "9A3F4597-8DC5-4122-ABCF-D2FC1F756731"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Shift": "9A3F4597-8DC5-4122-ABCF-D2FC1F756731"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Shift": "9A3F4597-8DC5-4122-ABCF-D2FC1F756731"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Shift": "9A3F4597-8DC5-4122-ABCF-D2FC1F756731"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Shift": "437D44D8-B37A-4F60-AA88-A4236F3E5BEC"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Shift": "437D44D8-B37A-4F60-AA88-A4236F3E5BEC"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Shift": "437D44D8-B37A-4F60-AA88-A4236F3E5BEC"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Shift": "437D44D8-B37A-4F60-AA88-A4236F3E5BEC"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Shift": "437D44D8-B37A-4F60-AA88-A4236F3E5BEC"
+                        }
+                    }
+                ]
+            },
+            {
+                "Version": 5,
+                "ValidFrom": "2017-05-07",
+                "ValidTo": "2017-11-04",
+                "Values": [
+                    {
+                        "Name": "A687F373-502B-4A1C-8AB3-E7DF4A40ECA0",
+                        "Value": "1.000",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB"
+                        }
+                    },
+                    {
+                        "Name": "A687F373-502B-4A1C-8AB3-E7DF4A40ECA0",
+                        "Value": "0.930",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C"
+                        }
+                    },
+                    {
+                        "Name": "A687F373-502B-4A1C-8AB3-E7DF4A40ECA0",
+                        "Value": "0.850",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7"
+                        }
+                    },
+                    {
+                        "Name": "A687F373-502B-4A1C-8AB3-E7DF4A40ECA0",
+                        "Value": "0.750",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504"
+                        }
+                    },
+                    {
+                        "Name": "A687F373-502B-4A1C-8AB3-E7DF4A40ECA0",
+                        "Value": "0.650",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8"
+                        }
+                    },
+                    {
+                        "Name": "648BA67E-8682-420F-B02E-D88E042E1664",
+                        "Value": "35.74",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "648BA67E-8682-420F-B02E-D88E042E1664",
+                        "Value": "33.24",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "648BA67E-8682-420F-B02E-D88E042E1664",
+                        "Value": "30.38",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "648BA67E-8682-420F-B02E-D88E042E1664",
+                        "Value": "26.81",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "648BA67E-8682-420F-B02E-D88E042E1664",
+                        "Value": "23.23",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "6AE63D1C-AB30-43D3-9FAA-A77419769F34",
+                        "Value": "3.57",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "6AE63D1C-AB30-43D3-9FAA-A77419769F34",
+                        "Value": "3.32",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "6AE63D1C-AB30-43D3-9FAA-A77419769F34",
+                        "Value": "3.04",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "6AE63D1C-AB30-43D3-9FAA-A77419769F34",
+                        "Value": "2.68",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "6AE63D1C-AB30-43D3-9FAA-A77419769F34",
+                        "Value": "2.32",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "D18B89A0-FF18-47C4-831E-F1CF2333EEEE",
+                        "Value": "2.06",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "D18B89A0-FF18-47C4-831E-F1CF2333EEEE",
+                        "Value": "2.06",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "D18B89A0-FF18-47C4-831E-F1CF2333EEEE",
+                        "Value": "2.06",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "D18B89A0-FF18-47C4-831E-F1CF2333EEEE",
+                        "Value": "2.06",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "D18B89A0-FF18-47C4-831E-F1CF2333EEEE",
+                        "Value": "2.06",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5E827528-442E-4022-A6B2-0179D83975C6",
+                        "Value": "5.06",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5E827528-442E-4022-A6B2-0179D83975C6",
+                        "Value": "5.06",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5E827528-442E-4022-A6B2-0179D83975C6",
+                        "Value": "4.30",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5E827528-442E-4022-A6B2-0179D83975C6",
+                        "Value": "3.80",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5E827528-442E-4022-A6B2-0179D83975C6",
+                        "Value": "3.29",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "C97FA357-7367-4332-BF07-E77E24A0724A",
+                        "Value": "0.45",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "C97FA357-7367-4332-BF07-E77E24A0724A",
+                        "Value": "0.45",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "C97FA357-7367-4332-BF07-E77E24A0724A",
+                        "Value": "0.45",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "C97FA357-7367-4332-BF07-E77E24A0724A",
+                        "Value": "0.45",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "C97FA357-7367-4332-BF07-E77E24A0724A",
+                        "Value": "0.45",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5A29070C-0E81-433D-8132-E333C29D4DCC",
+                        "Value": "46.88",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5A29070C-0E81-433D-8132-E333C29D4DCC",
+                        "Value": "44.13",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5A29070C-0E81-433D-8132-E333C29D4DCC",
+                        "Value": "40.23",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5A29070C-0E81-433D-8132-E333C29D4DCC",
+                        "Value": "35.80",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5A29070C-0E81-433D-8132-E333C29D4DCC",
+                        "Value": "31.35",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Shift": "9A3F4597-8DC5-4122-ABCF-D2FC1F756731"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Shift": "9A3F4597-8DC5-4122-ABCF-D2FC1F756731"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Shift": "9A3F4597-8DC5-4122-ABCF-D2FC1F756731"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Shift": "9A3F4597-8DC5-4122-ABCF-D2FC1F756731"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Shift": "9A3F4597-8DC5-4122-ABCF-D2FC1F756731"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Shift": "437D44D8-B37A-4F60-AA88-A4236F3E5BEC"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Shift": "437D44D8-B37A-4F60-AA88-A4236F3E5BEC"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Shift": "437D44D8-B37A-4F60-AA88-A4236F3E5BEC"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Shift": "437D44D8-B37A-4F60-AA88-A4236F3E5BEC"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Shift": "437D44D8-B37A-4F60-AA88-A4236F3E5BEC"
+                        }
+                    }
+                ]
+            },
+            {
+                "Version": 6,
+                "ValidFrom": "2017-11-05",
+                "ValidTo": "2018-05-05",
+                "Values": [
+                    {
+                        "Name": "A687F373-502B-4A1C-8AB3-E7DF4A40ECA0",
+                        "Value": "1.000",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB"
+                        }
+                    },
+                    {
+                        "Name": "A687F373-502B-4A1C-8AB3-E7DF4A40ECA0",
+                        "Value": "0.930",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C"
+                        }
+                    },
+                    {
+                        "Name": "A687F373-502B-4A1C-8AB3-E7DF4A40ECA0",
+                        "Value": "0.850",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7"
+                        }
+                    },
+                    {
+                        "Name": "A687F373-502B-4A1C-8AB3-E7DF4A40ECA0",
+                        "Value": "0.750",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504"
+                        }
+                    },
+                    {
+                        "Name": "A687F373-502B-4A1C-8AB3-E7DF4A40ECA0",
+                        "Value": "0.650",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8"
+                        }
+                    },
+                    {
+                        "Name": "648BA67E-8682-420F-B02E-D88E042E1664",
+                        "Value": "35.74",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "648BA67E-8682-420F-B02E-D88E042E1664",
+                        "Value": "33.24",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "648BA67E-8682-420F-B02E-D88E042E1664",
+                        "Value": "30.38",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "648BA67E-8682-420F-B02E-D88E042E1664",
+                        "Value": "26.81",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "648BA67E-8682-420F-B02E-D88E042E1664",
+                        "Value": "23.23",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "6AE63D1C-AB30-43D3-9FAA-A77419769F34",
+                        "Value": "3.57",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "6AE63D1C-AB30-43D3-9FAA-A77419769F34",
+                        "Value": "3.32",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "6AE63D1C-AB30-43D3-9FAA-A77419769F34",
+                        "Value": "3.04",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "6AE63D1C-AB30-43D3-9FAA-A77419769F34",
+                        "Value": "2.68",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "6AE63D1C-AB30-43D3-9FAA-A77419769F34",
+                        "Value": "2.32",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "D18B89A0-FF18-47C4-831E-F1CF2333EEEE",
+                        "Value": "2.06",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "D18B89A0-FF18-47C4-831E-F1CF2333EEEE",
+                        "Value": "2.06",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "D18B89A0-FF18-47C4-831E-F1CF2333EEEE",
+                        "Value": "2.06",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "D18B89A0-FF18-47C4-831E-F1CF2333EEEE",
+                        "Value": "2.06",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "D18B89A0-FF18-47C4-831E-F1CF2333EEEE",
+                        "Value": "2.06",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5E827528-442E-4022-A6B2-0179D83975C6",
+                        "Value": "5.06",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5E827528-442E-4022-A6B2-0179D83975C6",
+                        "Value": "5.06",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5E827528-442E-4022-A6B2-0179D83975C6",
+                        "Value": "4.30",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5E827528-442E-4022-A6B2-0179D83975C6",
+                        "Value": "3.80",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5E827528-442E-4022-A6B2-0179D83975C6",
+                        "Value": "3.29",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "C97FA357-7367-4332-BF07-E77E24A0724A",
+                        "Value": "0.45",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "C97FA357-7367-4332-BF07-E77E24A0724A",
+                        "Value": "0.45",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "C97FA357-7367-4332-BF07-E77E24A0724A",
+                        "Value": "0.45",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "C97FA357-7367-4332-BF07-E77E24A0724A",
+                        "Value": "0.45",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "C97FA357-7367-4332-BF07-E77E24A0724A",
+                        "Value": "0.45",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5A29070C-0E81-433D-8132-E333C29D4DCC",
+                        "Value": "46.88",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5A29070C-0E81-433D-8132-E333C29D4DCC",
+                        "Value": "44.13",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5A29070C-0E81-433D-8132-E333C29D4DCC",
+                        "Value": "40.23",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5A29070C-0E81-433D-8132-E333C29D4DCC",
+                        "Value": "35.80",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5A29070C-0E81-433D-8132-E333C29D4DCC",
+                        "Value": "31.35",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Shift": "9A3F4597-8DC5-4122-ABCF-D2FC1F756731"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Shift": "9A3F4597-8DC5-4122-ABCF-D2FC1F756731"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Shift": "9A3F4597-8DC5-4122-ABCF-D2FC1F756731"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Shift": "9A3F4597-8DC5-4122-ABCF-D2FC1F756731"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Shift": "9A3F4597-8DC5-4122-ABCF-D2FC1F756731"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Shift": "437D44D8-B37A-4F60-AA88-A4236F3E5BEC"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Shift": "437D44D8-B37A-4F60-AA88-A4236F3E5BEC"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Shift": "437D44D8-B37A-4F60-AA88-A4236F3E5BEC"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Shift": "437D44D8-B37A-4F60-AA88-A4236F3E5BEC"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Shift": "437D44D8-B37A-4F60-AA88-A4236F3E5BEC"
+                        }
+                    }
+                ]
+            },
+            {
+                "Version": 7,
+                "ValidFrom": "2018-05-06",
+                "ValidTo": "2018-11-03",
+                "Values": [
+                    {
+                        "Name": "A687F373-502B-4A1C-8AB3-E7DF4A40ECA0",
+                        "Value": "1.000",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB"
+                        }
+                    },
+                    {
+                        "Name": "A687F373-502B-4A1C-8AB3-E7DF4A40ECA0",
+                        "Value": "0.930",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C"
+                        }
+                    },
+                    {
+                        "Name": "A687F373-502B-4A1C-8AB3-E7DF4A40ECA0",
+                        "Value": "0.850",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7"
+                        }
+                    },
+                    {
+                        "Name": "A687F373-502B-4A1C-8AB3-E7DF4A40ECA0",
+                        "Value": "0.750",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504"
+                        }
+                    },
+                    {
+                        "Name": "A687F373-502B-4A1C-8AB3-E7DF4A40ECA0",
+                        "Value": "0.650",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8"
+                        }
+                    },
+                    {
+                        "Name": "648BA67E-8682-420F-B02E-D88E042E1664",
+                        "Value": "35.74",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "648BA67E-8682-420F-B02E-D88E042E1664",
+                        "Value": "33.24",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "648BA67E-8682-420F-B02E-D88E042E1664",
+                        "Value": "30.38",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "648BA67E-8682-420F-B02E-D88E042E1664",
+                        "Value": "26.81",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "648BA67E-8682-420F-B02E-D88E042E1664",
+                        "Value": "23.23",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "6AE63D1C-AB30-43D3-9FAA-A77419769F34",
+                        "Value": "3.57",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "6AE63D1C-AB30-43D3-9FAA-A77419769F34",
+                        "Value": "3.32",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "6AE63D1C-AB30-43D3-9FAA-A77419769F34",
+                        "Value": "3.04",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "6AE63D1C-AB30-43D3-9FAA-A77419769F34",
+                        "Value": "2.68",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "6AE63D1C-AB30-43D3-9FAA-A77419769F34",
+                        "Value": "2.32",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "D18B89A0-FF18-47C4-831E-F1CF2333EEEE",
+                        "Value": "2.06",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "D18B89A0-FF18-47C4-831E-F1CF2333EEEE",
+                        "Value": "2.06",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "D18B89A0-FF18-47C4-831E-F1CF2333EEEE",
+                        "Value": "2.06",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "D18B89A0-FF18-47C4-831E-F1CF2333EEEE",
+                        "Value": "2.06",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "D18B89A0-FF18-47C4-831E-F1CF2333EEEE",
+                        "Value": "2.06",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5E827528-442E-4022-A6B2-0179D83975C6",
+                        "Value": "5.06",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5E827528-442E-4022-A6B2-0179D83975C6",
+                        "Value": "5.06",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5E827528-442E-4022-A6B2-0179D83975C6",
+                        "Value": "4.30",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5E827528-442E-4022-A6B2-0179D83975C6",
+                        "Value": "3.80",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5E827528-442E-4022-A6B2-0179D83975C6",
+                        "Value": "3.29",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "C97FA357-7367-4332-BF07-E77E24A0724A",
+                        "Value": "0.45",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "C97FA357-7367-4332-BF07-E77E24A0724A",
+                        "Value": "0.45",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "C97FA357-7367-4332-BF07-E77E24A0724A",
+                        "Value": "0.45",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "C97FA357-7367-4332-BF07-E77E24A0724A",
+                        "Value": "0.45",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "C97FA357-7367-4332-BF07-E77E24A0724A",
+                        "Value": "0.45",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5A29070C-0E81-433D-8132-E333C29D4DCC",
+                        "Value": "46.88",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5A29070C-0E81-433D-8132-E333C29D4DCC",
+                        "Value": "44.13",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5A29070C-0E81-433D-8132-E333C29D4DCC",
+                        "Value": "40.23",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5A29070C-0E81-433D-8132-E333C29D4DCC",
+                        "Value": "35.80",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5A29070C-0E81-433D-8132-E333C29D4DCC",
+                        "Value": "31.35",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Shift": "9A3F4597-8DC5-4122-ABCF-D2FC1F756731"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Shift": "9A3F4597-8DC5-4122-ABCF-D2FC1F756731"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Shift": "9A3F4597-8DC5-4122-ABCF-D2FC1F756731"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Shift": "9A3F4597-8DC5-4122-ABCF-D2FC1F756731"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Shift": "9A3F4597-8DC5-4122-ABCF-D2FC1F756731"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Shift": "437D44D8-B37A-4F60-AA88-A4236F3E5BEC"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Shift": "437D44D8-B37A-4F60-AA88-A4236F3E5BEC"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Shift": "437D44D8-B37A-4F60-AA88-A4236F3E5BEC"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Shift": "437D44D8-B37A-4F60-AA88-A4236F3E5BEC"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Shift": "437D44D8-B37A-4F60-AA88-A4236F3E5BEC"
+                        }
+                    }
+                ]
+            },
+            {
+                "Version": 8,
+                "ValidFrom": "2018-11-04",
+                "Values": [
+                    {
+                        "Name": "A687F373-502B-4A1C-8AB3-E7DF4A40ECA0",
+                        "Value": "1.000",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB"
+                        }
+                    },
+                    {
+                        "Name": "A687F373-502B-4A1C-8AB3-E7DF4A40ECA0",
+                        "Value": "0.930",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C"
+                        }
+                    },
+                    {
+                        "Name": "A687F373-502B-4A1C-8AB3-E7DF4A40ECA0",
+                        "Value": "0.850",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7"
+                        }
+                    },
+                    {
+                        "Name": "A687F373-502B-4A1C-8AB3-E7DF4A40ECA0",
+                        "Value": "0.750",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504"
+                        }
+                    },
+                    {
+                        "Name": "A687F373-502B-4A1C-8AB3-E7DF4A40ECA0",
+                        "Value": "0.650",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8"
+                        }
+                    },
+                    {
+                        "Name": "648BA67E-8682-420F-B02E-D88E042E1664",
+                        "Value": "36.05",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "648BA67E-8682-420F-B02E-D88E042E1664",
+                        "Value": "33.53",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "648BA67E-8682-420F-B02E-D88E042E1664",
+                        "Value": "30.64",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "648BA67E-8682-420F-B02E-D88E042E1664",
+                        "Value": "27.03",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "648BA67E-8682-420F-B02E-D88E042E1664",
+                        "Value": "23.43",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "6AE63D1C-AB30-43D3-9FAA-A77419769F34",
+                        "Value": "3.61",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "6AE63D1C-AB30-43D3-9FAA-A77419769F34",
+                        "Value": "3.35",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "6AE63D1C-AB30-43D3-9FAA-A77419769F34",
+                        "Value": "3.06",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "6AE63D1C-AB30-43D3-9FAA-A77419769F34",
+                        "Value": "2.70",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "6AE63D1C-AB30-43D3-9FAA-A77419769F34",
+                        "Value": "2.34",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "D18B89A0-FF18-47C4-831E-F1CF2333EEEE",
+                        "Value": "2.06",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "D18B89A0-FF18-47C4-831E-F1CF2333EEEE",
+                        "Value": "2.06",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "D18B89A0-FF18-47C4-831E-F1CF2333EEEE",
+                        "Value": "2.06",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "D18B89A0-FF18-47C4-831E-F1CF2333EEEE",
+                        "Value": "2.06",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "D18B89A0-FF18-47C4-831E-F1CF2333EEEE",
+                        "Value": "2.06",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5E827528-442E-4022-A6B2-0179D83975C6",
+                        "Value": "5.06",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5E827528-442E-4022-A6B2-0179D83975C6",
+                        "Value": "5.06",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5E827528-442E-4022-A6B2-0179D83975C6",
+                        "Value": "4.30",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5E827528-442E-4022-A6B2-0179D83975C6",
+                        "Value": "3.80",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5E827528-442E-4022-A6B2-0179D83975C6",
+                        "Value": "3.29",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "C97FA357-7367-4332-BF07-E77E24A0724A",
+                        "Value": "0.45",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "C97FA357-7367-4332-BF07-E77E24A0724A",
+                        "Value": "0.45",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "C97FA357-7367-4332-BF07-E77E24A0724A",
+                        "Value": "0.45",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "C97FA357-7367-4332-BF07-E77E24A0724A",
+                        "Value": "0.45",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "C97FA357-7367-4332-BF07-E77E24A0724A",
+                        "Value": "0.45",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5A29070C-0E81-433D-8132-E333C29D4DCC",
+                        "Value": "47.23",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5A29070C-0E81-433D-8132-E333C29D4DCC",
+                        "Value": "44.45",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5A29070C-0E81-433D-8132-E333C29D4DCC",
+                        "Value": "40.51",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5A29070C-0E81-433D-8132-E333C29D4DCC",
+                        "Value": "36.04",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "5A29070C-0E81-433D-8132-E333C29D4DCC",
+                        "Value": "31.57",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Meter": "D9466448-6510-4F41-A0AE-43C77F8224F5"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Shift": "9A3F4597-8DC5-4122-ABCF-D2FC1F756731"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Shift": "9A3F4597-8DC5-4122-ABCF-D2FC1F756731"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Shift": "9A3F4597-8DC5-4122-ABCF-D2FC1F756731"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Shift": "9A3F4597-8DC5-4122-ABCF-D2FC1F756731"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Shift": "9A3F4597-8DC5-4122-ABCF-D2FC1F756731"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
+                            "Shift": "437D44D8-B37A-4F60-AA88-A4236F3E5BEC"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
+                            "Shift": "437D44D8-B37A-4F60-AA88-A4236F3E5BEC"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "34C68478-2133-449C-8EB6-148E075FD9C7",
+                            "Shift": "437D44D8-B37A-4F60-AA88-A4236F3E5BEC"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
+                            "Shift": "437D44D8-B37A-4F60-AA88-A4236F3E5BEC"
+                        }
+                    },
+                    {
+                        "Name": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                        "Value": "3.00",
+                        "Context": {
+                            "Scope": "F74E071A-FE30-4912-8A39-992A570828A8",
+                            "Shift": "437D44D8-B37A-4F60-AA88-A4236F3E5BEC"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]
