@@ -122,6 +122,8 @@ SELECT
 	(
 		SELECT 
 			m.Col01 AS [Version],
+			CAST(m.Col01 AS nvarchar(4)) + '-01-01' AS [ValidFrom],
+			CAST(m.Col01 AS nvarchar(4)) + '-12-31' AS [ValidTo],
 			(
 				SELECT
 					*

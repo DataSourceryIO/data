@@ -40,6 +40,8 @@
         "Versions": [
             {
                 "Version": 2019,
+                "ValidFrom": "2019-01-01",
+                "ValidTo": "2019-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -69,6 +71,8 @@
             },
             {
                 "Version": 2018,
+                "ValidFrom": "2018-01-01",
+                "ValidTo": "2018-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -98,6 +102,8 @@
             },
             {
                 "Version": 2017,
+                "ValidFrom": "2017-01-01",
+                "ValidTo": "2017-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -127,6 +133,8 @@
             },
             {
                 "Version": 2016,
+                "ValidFrom": "2016-01-01",
+                "ValidTo": "2016-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -156,6 +164,8 @@
             },
             {
                 "Version": 2015,
+                "ValidFrom": "2015-01-01",
+                "ValidTo": "2015-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -185,6 +195,8 @@
             },
             {
                 "Version": 2014,
+                "ValidFrom": "2014-01-01",
+                "ValidTo": "2014-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -214,6 +226,8 @@
             },
             {
                 "Version": 2013,
+                "ValidFrom": "2013-01-01",
+                "ValidTo": "2013-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -243,6 +257,8 @@
             },
             {
                 "Version": 2012,
+                "ValidFrom": "2012-01-01",
+                "ValidTo": "2012-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -272,6 +288,8 @@
             },
             {
                 "Version": 2011,
+                "ValidFrom": "2011-01-01",
+                "ValidTo": "2011-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -301,6 +319,8 @@
             },
             {
                 "Version": 2010,
+                "ValidFrom": "2010-01-01",
+                "ValidTo": "2010-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -330,6 +350,8 @@
             },
             {
                 "Version": 2009,
+                "ValidFrom": "2009-01-01",
+                "ValidTo": "2009-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -359,6 +381,8 @@
             },
             {
                 "Version": 2008,
+                "ValidFrom": "2008-01-01",
+                "ValidTo": "2008-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -388,6 +412,8 @@
             },
             {
                 "Version": 2007,
+                "ValidFrom": "2007-01-01",
+                "ValidTo": "2007-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -417,6 +443,8 @@
             },
             {
                 "Version": 2006,
+                "ValidFrom": "2006-01-01",
+                "ValidTo": "2006-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -446,6 +474,8 @@
             },
             {
                 "Version": 2005,
+                "ValidFrom": "2005-01-01",
+                "ValidTo": "2005-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -475,6 +505,8 @@
             },
             {
                 "Version": 2004,
+                "ValidFrom": "2004-01-01",
+                "ValidTo": "2004-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -504,6 +536,8 @@
             },
             {
                 "Version": 2003,
+                "ValidFrom": "2003-01-01",
+                "ValidTo": "2003-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -533,6 +567,8 @@
             },
             {
                 "Version": 2002,
+                "ValidFrom": "2002-01-01",
+                "ValidTo": "2002-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -562,6 +598,8 @@
             },
             {
                 "Version": 2001,
+                "ValidFrom": "2001-01-01",
+                "ValidTo": "2001-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -591,6 +629,8 @@
             },
             {
                 "Version": 2000,
+                "ValidFrom": "2000-01-01",
+                "ValidTo": "2000-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -620,6 +660,8 @@
             },
             {
                 "Version": 1999,
+                "ValidFrom": "1999-01-01",
+                "ValidTo": "1999-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -649,6 +691,8 @@
             },
             {
                 "Version": 1998,
+                "ValidFrom": "1998-01-01",
+                "ValidTo": "1998-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -678,6 +722,8 @@
             },
             {
                 "Version": 1997,
+                "ValidFrom": "1997-01-01",
+                "ValidTo": "1997-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -707,6 +753,8 @@
             },
             {
                 "Version": 1996,
+                "ValidFrom": "1996-01-01",
+                "ValidTo": "1996-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -736,6 +784,8 @@
             },
             {
                 "Version": 1995,
+                "ValidFrom": "1995-01-01",
+                "ValidTo": "1995-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -765,6 +815,8 @@
             },
             {
                 "Version": 1994,
+                "ValidFrom": "1994-01-01",
+                "ValidTo": "1994-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -794,6 +846,8 @@
             },
             {
                 "Version": 1993,
+                "ValidFrom": "1993-01-01",
+                "ValidTo": "1993-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -823,6 +877,8 @@
             },
             {
                 "Version": 1992,
+                "ValidFrom": "1992-01-01",
+                "ValidTo": "1992-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -852,6 +908,8 @@
             },
             {
                 "Version": 1991,
+                "ValidFrom": "1991-01-01",
+                "ValidTo": "1991-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -881,6 +939,8 @@
             },
             {
                 "Version": 1990,
+                "ValidFrom": "1990-01-01",
+                "ValidTo": "1990-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -910,6 +970,8 @@
             },
             {
                 "Version": 1989,
+                "ValidFrom": "1989-01-01",
+                "ValidTo": "1989-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -939,6 +1001,8 @@
             },
             {
                 "Version": 1988,
+                "ValidFrom": "1988-01-01",
+                "ValidTo": "1988-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -968,6 +1032,8 @@
             },
             {
                 "Version": 1987,
+                "ValidFrom": "1987-01-01",
+                "ValidTo": "1987-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -997,6 +1063,8 @@
             },
             {
                 "Version": 1986,
+                "ValidFrom": "1986-01-01",
+                "ValidTo": "1986-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -1026,6 +1094,8 @@
             },
             {
                 "Version": 1985,
+                "ValidFrom": "1985-01-01",
+                "ValidTo": "1985-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -1055,6 +1125,8 @@
             },
             {
                 "Version": 1984,
+                "ValidFrom": "1984-01-01",
+                "ValidTo": "1984-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -1084,6 +1156,8 @@
             },
             {
                 "Version": 1983,
+                "ValidFrom": "1983-01-01",
+                "ValidTo": "1983-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -1113,6 +1187,8 @@
             },
             {
                 "Version": 1982,
+                "ValidFrom": "1982-01-01",
+                "ValidTo": "1982-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -1142,6 +1218,8 @@
             },
             {
                 "Version": 1981,
+                "ValidFrom": "1981-01-01",
+                "ValidTo": "1981-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -1171,6 +1249,8 @@
             },
             {
                 "Version": 1980,
+                "ValidFrom": "1980-01-01",
+                "ValidTo": "1980-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -1200,6 +1280,8 @@
             },
             {
                 "Version": 1979,
+                "ValidFrom": "1979-01-01",
+                "ValidTo": "1979-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -1229,6 +1311,8 @@
             },
             {
                 "Version": 1978,
+                "ValidFrom": "1978-01-01",
+                "ValidTo": "1978-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -1258,6 +1342,8 @@
             },
             {
                 "Version": 1977,
+                "ValidFrom": "1977-01-01",
+                "ValidTo": "1977-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -1287,6 +1373,8 @@
             },
             {
                 "Version": 1976,
+                "ValidFrom": "1976-01-01",
+                "ValidTo": "1976-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -1316,6 +1404,8 @@
             },
             {
                 "Version": 1975,
+                "ValidFrom": "1975-01-01",
+                "ValidTo": "1975-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -1345,6 +1435,8 @@
             },
             {
                 "Version": 1974,
+                "ValidFrom": "1974-01-01",
+                "ValidTo": "1974-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -1374,6 +1466,8 @@
             },
             {
                 "Version": 1973,
+                "ValidFrom": "1973-01-01",
+                "ValidTo": "1973-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -1403,6 +1497,8 @@
             },
             {
                 "Version": 1972,
+                "ValidFrom": "1972-01-01",
+                "ValidTo": "1972-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -1432,6 +1528,8 @@
             },
             {
                 "Version": 1971,
+                "ValidFrom": "1971-01-01",
+                "ValidTo": "1971-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -1461,6 +1559,8 @@
             },
             {
                 "Version": 1970,
+                "ValidFrom": "1970-01-01",
+                "ValidTo": "1970-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -1490,6 +1590,8 @@
             },
             {
                 "Version": 1969,
+                "ValidFrom": "1969-01-01",
+                "ValidTo": "1969-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -1519,6 +1621,8 @@
             },
             {
                 "Version": 1968,
+                "ValidFrom": "1968-01-01",
+                "ValidTo": "1968-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -1548,6 +1652,8 @@
             },
             {
                 "Version": 1967,
+                "ValidFrom": "1967-01-01",
+                "ValidTo": "1967-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -1577,6 +1683,8 @@
             },
             {
                 "Version": 1966,
+                "ValidFrom": "1966-01-01",
+                "ValidTo": "1966-12-31",
                 "Values": [
                     {
                         "Name": "768FBD91-155D-4A30-BDD0-71696A2353C2",
