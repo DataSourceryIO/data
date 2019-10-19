@@ -3,14 +3,13 @@
         "Collection": "96E215A4-25BE-4ECD-AC02-AD71138C244E",
         "Source": "https:\/\/github.com\/DataSourceryIO\/data\/blob\/master\/gov-ca-ei.json",
         "Category": "A363AE33-2D20-472A-A04F-FF3383C51FAE",
+        "Depends": [
+            "E4856D75-D270-483D-8391-E83826436199"
+        ],
         "Names": [
             {
                 "RowID": "96E215A4-25BE-4ECD-AC02-AD71138C244E",
                 "en-us": "Canada - EI premium rates and maximums"
-            },
-            {
-                "RowID": "A363AE33-2D20-472A-A04F-FF3383C51FAE",
-                "en-us": "Labour"
             },
             {
                 "RowID": "15D80E7B-408A-458A-AF6A-56F1704C67AB",

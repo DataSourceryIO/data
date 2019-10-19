@@ -3,14 +3,13 @@
         "Collection": "F7359D72-750E-4F1F-ABE9-A69F72A3B521",
         "Source": "https:\/\/github.com\/DataSourceryIO\/data\/blob\/master\/gov-ca-cpp.json",
         "Category": "A363AE33-2D20-472A-A04F-FF3383C51FAE",
+        "Depends": [
+            "E4856D75-D270-483D-8391-E83826436199"
+        ],
         "Names": [
             {
                 "RowID": "F7359D72-750E-4F1F-ABE9-A69F72A3B521",
                 "en-us": "Canada - CPP contribution rates, maximums and exemptions"
-            },
-            {
-                "RowID": "A363AE33-2D20-472A-A04F-FF3383C51FAE",
-                "en-us": "Labour"
             },
             {
                 "RowID": "768FBD91-155D-4A30-BDD0-71696A2353C2",
@@ -34,7 +33,7 @@
             },
             {
                 "RowID": "75722813-AB86-41D7-8B95-248A7CAE5ED2",
-                "en-us": "Maximum annualself-employedcontribution"
+                "en-us": "Maximum annual self-employed contribution"
             }
         ],
         "Versions": [

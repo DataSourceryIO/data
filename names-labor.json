@@ -1,0 +1,65 @@
+[
+    {
+        "Collection": "E4856D75-D270-483D-8391-E83826436199",
+        "Source": "https:\/\/github.com\/DataSourceryIO\/data\/blob\/master\/names-labor.json",
+        "Category": "A363AE33-2D20-472A-A04F-FF3383C51FAE",
+        "Names": [
+            {
+                "RowID": "A363AE33-2D20-472A-A04F-FF3383C51FAE",
+                "en-us": "Labor"
+            },
+            {
+                "RowID": "648BA67E-8682-420F-B02E-D88E042E1664",
+                "en-us": "Base Rate"
+            },
+            {
+                "RowID": "6AE63D1C-AB30-43D3-9FAA-A77419769F34",
+                "en-us": "Holiday and Vacation"
+            },
+            {
+                "RowID": "D18B89A0-FF18-47C4-831E-F1CF2333EEEE",
+                "en-us": "Health and Welfare"
+            },
+            {
+                "RowID": "5E827528-442E-4022-A6B2-0179D83975C6",
+                "en-us": "Pension"
+            },
+            {
+                "RowID": "C97FA357-7367-4332-BF07-E77E24A0724A",
+                "en-us": "Training"
+            },
+            {
+                "RowID": "5A29070C-0E81-433D-8132-E333C29D4DCC",
+                "en-us": "Gross Rate"
+            },
+            {
+                "RowID": "3E2C9035-B949-4990-87FF-59233ABFD233",
+                "en-us": "Shift Premium"
+            },
+            {
+                "RowID": "D9466448-6510-4F41-A0AE-43C77F8224F5",
+                "en-us": "Straight-time"
+            },
+            {
+                "RowID": "22A0D1BA-C4D8-4771-ACB3-131C9A97D526",
+                "en-us": "Overtime 1.5x"
+            },
+            {
+                "RowID": "D594A134-033D-444D-A066-8CE78DD5C624",
+                "en-us": "Overtime 2x"
+            },
+            {
+                "RowID": "52E73FD0-674C-486D-9CA8-3487F45CA8A5",
+                "en-us": "First shift"
+            },
+            {
+                "RowID": "9A3F4597-8DC5-4122-ABCF-D2FC1F756731",
+                "en-us": "Second shift"
+            },
+            {
+                "RowID": "437D44D8-B37A-4F60-AA88-A4236F3E5BEC",
+                "en-us": "Third shift"
+            }
+        ]
+    }
+]
