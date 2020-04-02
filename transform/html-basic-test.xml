@@ -1,0 +1,379 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="html-basic.xsl"?>
+
+<Table>
+<Row>
+<Cell><Label>Scope</Label></Cell>
+<Cell><Label>Certified Construction Craft Labourer</Label></Cell>
+<Cell><Label>Certified Construction Craft Labourer</Label></Cell>
+<Cell><Label>Certified Construction Craft Labourer</Label></Cell>
+<Cell><Label>Certified Construction Craft Labourer</Label></Cell>
+<Cell><Label>Certified Construction Craft Labourer</Label></Cell>
+<Cell><Label>Certified Construction Craft Labourer</Label></Cell>
+<Cell><Label>Uncertified Labourer</Label></Cell>
+<Cell><Label>Uncertified Labourer</Label></Cell>
+<Cell><Label>Uncertified Labourer</Label></Cell>
+<Cell><Label>Uncertified Labourer</Label></Cell>
+<Cell><Label>Uncertified Labourer</Label></Cell>
+<Cell><Label>Uncertified Labourer</Label></Cell>
+<Cell><Label>Trainee 3</Label></Cell>
+<Cell><Label>Trainee 3</Label></Cell>
+<Cell><Label>Trainee 3</Label></Cell>
+<Cell><Label>Trainee 3</Label></Cell>
+<Cell><Label>Trainee 3</Label></Cell>
+<Cell><Label>Trainee 3</Label></Cell>
+<Cell><Label>Trainee 2</Label></Cell>
+<Cell><Label>Trainee 2</Label></Cell>
+<Cell><Label>Trainee 2</Label></Cell>
+<Cell><Label>Trainee 2</Label></Cell>
+<Cell><Label>Trainee 2</Label></Cell>
+<Cell><Label>Trainee 2</Label></Cell>
+<Cell><Label>Trainee 1</Label></Cell>
+<Cell><Label>Trainee 1</Label></Cell>
+<Cell><Label>Trainee 1</Label></Cell>
+<Cell><Label>Trainee 1</Label></Cell>
+<Cell><Label>Trainee 1</Label></Cell>
+<Cell><Label>Trainee 1</Label></Cell>
+</Row>
+
+<Row>
+<Cell><Label>Meter</Label></Cell>
+<Cell><Label>Straight-time</Label></Cell>
+<Cell><Label>Straight-time</Label></Cell>
+<Cell><Label>Overtime 1.5x</Label></Cell>
+<Cell><Label>Overtime 1.5x</Label></Cell>
+<Cell><Label>Overtime 2x</Label></Cell>
+<Cell><Label>Overtime 2x</Label></Cell>
+<Cell><Label>Straight-time</Label></Cell>
+<Cell><Label>Straight-time</Label></Cell>
+<Cell><Label>Overtime 1.5x</Label></Cell>
+<Cell><Label>Overtime 1.5x</Label></Cell>
+<Cell><Label>Overtime 2x</Label></Cell>
+<Cell><Label>Overtime 2x</Label></Cell>
+<Cell><Label>Straight-time</Label></Cell>
+<Cell><Label>Straight-time</Label></Cell>
+<Cell><Label>Overtime 1.5x</Label></Cell>
+<Cell><Label>Overtime 1.5x</Label></Cell>
+<Cell><Label>Overtime 2x</Label></Cell>
+<Cell><Label>Overtime 2x</Label></Cell>
+<Cell><Label>Straight-time</Label></Cell>
+<Cell><Label>Straight-time</Label></Cell>
+<Cell><Label>Overtime 1.5x</Label></Cell>
+<Cell><Label>Overtime 1.5x</Label></Cell>
+<Cell><Label>Overtime 2x</Label></Cell>
+<Cell><Label>Overtime 2x</Label></Cell>
+<Cell><Label>Straight-time</Label></Cell>
+<Cell><Label>Straight-time</Label></Cell>
+<Cell><Label>Overtime 1.5x</Label></Cell>
+<Cell><Label>Overtime 1.5x</Label></Cell>
+<Cell><Label>Overtime 2x</Label></Cell>
+<Cell><Label>Overtime 2x</Label></Cell>
+</Row>
+
+<Row>
+<Cell><Label>Shift</Label></Cell>
+<Cell><Label>First shift</Label></Cell>
+<Cell><Label>Second shift</Label></Cell>
+<Cell><Label>First shift</Label></Cell>
+<Cell><Label>Second shift</Label></Cell>
+<Cell><Label>First shift</Label></Cell>
+<Cell><Label>Second shift</Label></Cell>
+<Cell><Label>First shift</Label></Cell>
+<Cell><Label>Second shift</Label></Cell>
+<Cell><Label>First shift</Label></Cell>
+<Cell><Label>Second shift</Label></Cell>
+<Cell><Label>First shift</Label></Cell>
+<Cell><Label>Second shift</Label></Cell>
+<Cell><Label>First shift</Label></Cell>
+<Cell><Label>Second shift</Label></Cell>
+<Cell><Label>First shift</Label></Cell>
+<Cell><Label>Second shift</Label></Cell>
+<Cell><Label>First shift</Label></Cell>
+<Cell><Label>Second shift</Label></Cell>
+<Cell><Label>First shift</Label></Cell>
+<Cell><Label>Second shift</Label></Cell>
+<Cell><Label>First shift</Label></Cell>
+<Cell><Label>Second shift</Label></Cell>
+<Cell><Label>First shift</Label></Cell>
+<Cell><Label>Second shift</Label></Cell>
+<Cell><Label>First shift</Label></Cell>
+<Cell><Label>Second shift</Label></Cell>
+<Cell><Label>First shift</Label></Cell>
+<Cell><Label>Second shift</Label></Cell>
+<Cell><Label>First shift</Label></Cell>
+<Cell><Label>Second shift</Label></Cell>
+</Row>
+
+<Row>
+<Cell><Label>Base Hourly Wage</Label></Cell>
+<Cell><Value>36.05</Value></Cell>
+<Cell><Value>36.05</Value></Cell>
+<Cell><Value>54.075</Value></Cell>
+<Cell><Value>54.075</Value></Cell>
+<Cell><Value>72.1</Value></Cell>
+<Cell><Value>72.1</Value></Cell>
+<Cell><Value>33.53</Value></Cell>
+<Cell><Value>33.53</Value></Cell>
+<Cell><Value>50.295</Value></Cell>
+<Cell><Value>50.295</Value></Cell>
+<Cell><Value>67.06</Value></Cell>
+<Cell><Value>67.06</Value></Cell>
+<Cell><Value>30.64</Value></Cell>
+<Cell><Value>30.64</Value></Cell>
+<Cell><Value>45.96</Value></Cell>
+<Cell><Value>45.96</Value></Cell>
+<Cell><Value>61.28</Value></Cell>
+<Cell><Value>61.28</Value></Cell>
+<Cell><Value>27.03</Value></Cell>
+<Cell><Value>27.03</Value></Cell>
+<Cell><Value>40.545</Value></Cell>
+<Cell><Value>40.545</Value></Cell>
+<Cell><Value>54.06</Value></Cell>
+<Cell><Value>54.06</Value></Cell>
+<Cell><Value>23.43</Value></Cell>
+<Cell><Value>23.43</Value></Cell>
+<Cell><Value>35.145</Value></Cell>
+<Cell><Value>35.145</Value></Cell>
+<Cell><Value>46.86</Value></Cell>
+<Cell><Value>46.86</Value></Cell>
+</Row>
+
+<Row>
+<Cell><Label>Shift Premium</Label></Cell>
+<Cell><Value>0.00</Value></Cell>
+<Cell><Value>3.00</Value></Cell>
+<Cell><Value>0.00</Value></Cell>
+<Cell><Value>3.00</Value></Cell>
+<Cell><Value>0.00</Value></Cell>
+<Cell><Value>3.00</Value></Cell>
+<Cell><Value>0.00</Value></Cell>
+<Cell><Value>3.00</Value></Cell>
+<Cell><Value>0.00</Value></Cell>
+<Cell><Value>3.00</Value></Cell>
+<Cell><Value>0.00</Value></Cell>
+<Cell><Value>3.00</Value></Cell>
+<Cell><Value>0.00</Value></Cell>
+<Cell><Value>3.00</Value></Cell>
+<Cell><Value>0.00</Value></Cell>
+<Cell><Value>3.00</Value></Cell>
+<Cell><Value>0.00</Value></Cell>
+<Cell><Value>3.00</Value></Cell>
+<Cell><Value>0.00</Value></Cell>
+<Cell><Value>3.00</Value></Cell>
+<Cell><Value>0.00</Value></Cell>
+<Cell><Value>3.00</Value></Cell>
+<Cell><Value>0.00</Value></Cell>
+<Cell><Value>3.00</Value></Cell>
+<Cell><Value>0.00</Value></Cell>
+<Cell><Value>3.00</Value></Cell>
+<Cell><Value>0.00</Value></Cell>
+<Cell><Value>3.00</Value></Cell>
+<Cell><Value>0.00</Value></Cell>
+<Cell><Value>3.00</Value></Cell>
+</Row>
+
+<Row>
+<Cell><Label>Holiday and Vacation</Label></Cell>
+<Cell><Value>3.61</Value></Cell>
+<Cell><Value>3.61</Value></Cell>
+<Cell><Value>3.61</Value></Cell>
+<Cell><Value>3.61</Value></Cell>
+<Cell><Value>3.61</Value></Cell>
+<Cell><Value>3.61</Value></Cell>
+<Cell><Value>3.35</Value></Cell>
+<Cell><Value>3.35</Value></Cell>
+<Cell><Value>3.35</Value></Cell>
+<Cell><Value>3.35</Value></Cell>
+<Cell><Value>3.35</Value></Cell>
+<Cell><Value>3.35</Value></Cell>
+<Cell><Value>3.06</Value></Cell>
+<Cell><Value>3.06</Value></Cell>
+<Cell><Value>3.06</Value></Cell>
+<Cell><Value>3.06</Value></Cell>
+<Cell><Value>3.06</Value></Cell>
+<Cell><Value>3.06</Value></Cell>
+<Cell><Value>2.70</Value></Cell>
+<Cell><Value>2.70</Value></Cell>
+<Cell><Value>2.70</Value></Cell>
+<Cell><Value>2.70</Value></Cell>
+<Cell><Value>2.70</Value></Cell>
+<Cell><Value>2.70</Value></Cell>
+<Cell><Value>2.34</Value></Cell>
+<Cell><Value>2.34</Value></Cell>
+<Cell><Value>2.34</Value></Cell>
+<Cell><Value>2.34</Value></Cell>
+<Cell><Value>2.34</Value></Cell>
+<Cell><Value>2.34</Value></Cell>
+</Row>
+
+<Row>
+<Cell><Label>Subtotal A</Label></Cell>
+<Cell><Value>39.66</Value></Cell>
+<Cell><Value>42.66</Value></Cell>
+<Cell><Value>57.685</Value></Cell>
+<Cell><Value>60.685</Value></Cell>
+<Cell><Value>75.71</Value></Cell>
+<Cell><Value>78.71</Value></Cell>
+<Cell><Value>36.88</Value></Cell>
+<Cell><Value>39.88</Value></Cell>
+<Cell><Value>53.645</Value></Cell>
+<Cell><Value>56.645</Value></Cell>
+<Cell><Value>70.41</Value></Cell>
+<Cell><Value>73.41</Value></Cell>
+<Cell><Value>33.7</Value></Cell>
+<Cell><Value>36.7</Value></Cell>
+<Cell><Value>49.02</Value></Cell>
+<Cell><Value>52.02</Value></Cell>
+<Cell><Value>64.34</Value></Cell>
+<Cell><Value>67.34</Value></Cell>
+<Cell><Value>29.73</Value></Cell>
+<Cell><Value>32.73</Value></Cell>
+<Cell><Value>43.245</Value></Cell>
+<Cell><Value>46.245</Value></Cell>
+<Cell><Value>56.76</Value></Cell>
+<Cell><Value>59.76</Value></Cell>
+<Cell><Value>25.77</Value></Cell>
+<Cell><Value>28.77</Value></Cell>
+<Cell><Value>37.485</Value></Cell>
+<Cell><Value>40.485</Value></Cell>
+<Cell><Value>49.2</Value></Cell>
+<Cell><Value>52.2</Value></Cell>
+</Row>
+
+<Row>
+<Cell><Label>Health and Welfare</Label></Cell>
+<Cell><Value>2.06</Value></Cell>
+<Cell><Value>2.06</Value></Cell>
+<Cell><Value>2.06</Value></Cell>
+<Cell><Value>2.06</Value></Cell>
+<Cell><Value>2.06</Value></Cell>
+<Cell><Value>2.06</Value></Cell>
+<Cell><Value>2.06</Value></Cell>
+<Cell><Value>2.06</Value></Cell>
+<Cell><Value>2.06</Value></Cell>
+<Cell><Value>2.06</Value></Cell>
+<Cell><Value>2.06</Value></Cell>
+<Cell><Value>2.06</Value></Cell>
+<Cell><Value>2.06</Value></Cell>
+<Cell><Value>2.06</Value></Cell>
+<Cell><Value>2.06</Value></Cell>
+<Cell><Value>2.06</Value></Cell>
+<Cell><Value>2.06</Value></Cell>
+<Cell><Value>2.06</Value></Cell>
+<Cell><Value>2.06</Value></Cell>
+<Cell><Value>2.06</Value></Cell>
+<Cell><Value>2.06</Value></Cell>
+<Cell><Value>2.06</Value></Cell>
+<Cell><Value>2.06</Value></Cell>
+<Cell><Value>2.06</Value></Cell>
+<Cell><Value>2.06</Value></Cell>
+<Cell><Value>2.06</Value></Cell>
+<Cell><Value>2.06</Value></Cell>
+<Cell><Value>2.06</Value></Cell>
+<Cell><Value>2.06</Value></Cell>
+<Cell><Value>2.06</Value></Cell>
+</Row>
+
+<Row>
+<Cell><Label>Pension</Label></Cell>
+<Cell><Value>5.06</Value></Cell>
+<Cell><Value>5.06</Value></Cell>
+<Cell><Value>5.06</Value></Cell>
+<Cell><Value>5.06</Value></Cell>
+<Cell><Value>5.06</Value></Cell>
+<Cell><Value>5.06</Value></Cell>
+<Cell><Value>5.06</Value></Cell>
+<Cell><Value>5.06</Value></Cell>
+<Cell><Value>5.06</Value></Cell>
+<Cell><Value>5.06</Value></Cell>
+<Cell><Value>5.06</Value></Cell>
+<Cell><Value>5.06</Value></Cell>
+<Cell><Value>4.30</Value></Cell>
+<Cell><Value>4.30</Value></Cell>
+<Cell><Value>4.30</Value></Cell>
+<Cell><Value>4.30</Value></Cell>
+<Cell><Value>4.30</Value></Cell>
+<Cell><Value>4.30</Value></Cell>
+<Cell><Value>3.80</Value></Cell>
+<Cell><Value>3.80</Value></Cell>
+<Cell><Value>3.80</Value></Cell>
+<Cell><Value>3.80</Value></Cell>
+<Cell><Value>3.80</Value></Cell>
+<Cell><Value>3.80</Value></Cell>
+<Cell><Value>3.29</Value></Cell>
+<Cell><Value>3.29</Value></Cell>
+<Cell><Value>3.29</Value></Cell>
+<Cell><Value>3.29</Value></Cell>
+<Cell><Value>3.29</Value></Cell>
+<Cell><Value>3.29</Value></Cell>
+</Row>
+
+<Row>
+<Cell><Label>Training</Label></Cell>
+<Cell><Value>0.45</Value></Cell>
+<Cell><Value>0.45</Value></Cell>
+<Cell><Value>0.45</Value></Cell>
+<Cell><Value>0.45</Value></Cell>
+<Cell><Value>0.45</Value></Cell>
+<Cell><Value>0.45</Value></Cell>
+<Cell><Value>0.45</Value></Cell>
+<Cell><Value>0.45</Value></Cell>
+<Cell><Value>0.45</Value></Cell>
+<Cell><Value>0.45</Value></Cell>
+<Cell><Value>0.45</Value></Cell>
+<Cell><Value>0.45</Value></Cell>
+<Cell><Value>0.45</Value></Cell>
+<Cell><Value>0.45</Value></Cell>
+<Cell><Value>0.45</Value></Cell>
+<Cell><Value>0.45</Value></Cell>
+<Cell><Value>0.45</Value></Cell>
+<Cell><Value>0.45</Value></Cell>
+<Cell><Value>0.45</Value></Cell>
+<Cell><Value>0.45</Value></Cell>
+<Cell><Value>0.45</Value></Cell>
+<Cell><Value>0.45</Value></Cell>
+<Cell><Value>0.45</Value></Cell>
+<Cell><Value>0.45</Value></Cell>
+<Cell><Value>0.45</Value></Cell>
+<Cell><Value>0.45</Value></Cell>
+<Cell><Value>0.45</Value></Cell>
+<Cell><Value>0.45</Value></Cell>
+<Cell><Value>0.45</Value></Cell>
+<Cell><Value>0.45</Value></Cell>
+</Row>
+
+<Row>
+<Cell><Label>Subtotal B</Label></Cell>
+<Cell><Value>47.23</Value></Cell>
+<Cell><Value>50.23</Value></Cell>
+<Cell><Value>65.255</Value></Cell>
+<Cell><Value>68.255</Value></Cell>
+<Cell><Value>83.28</Value></Cell>
+<Cell><Value>86.28</Value></Cell>
+<Cell><Value>44.45</Value></Cell>
+<Cell><Value>47.45</Value></Cell>
+<Cell><Value>61.215</Value></Cell>
+<Cell><Value>64.215</Value></Cell>
+<Cell><Value>77.98</Value></Cell>
+<Cell><Value>80.98</Value></Cell>
+<Cell><Value>40.51</Value></Cell>
+<Cell><Value>43.51</Value></Cell>
+<Cell><Value>55.83</Value></Cell>
+<Cell><Value>58.83</Value></Cell>
+<Cell><Value>71.15</Value></Cell>
+<Cell><Value>74.15</Value></Cell>
+<Cell><Value>36.04</Value></Cell>
+<Cell><Value>39.04</Value></Cell>
+<Cell><Value>49.555</Value></Cell>
+<Cell><Value>52.555</Value></Cell>
+<Cell><Value>63.07</Value></Cell>
+<Cell><Value>66.07</Value></Cell>
+<Cell><Value>31.57</Value></Cell>
+<Cell><Value>34.57</Value></Cell>
+<Cell><Value>43.285</Value></Cell>
+<Cell><Value>46.285</Value></Cell>
+<Cell><Value>55</Value></Cell>
+<Cell><Value>58</Value></Cell>
+</Row>
+
+</Table>
