@@ -9,31 +9,31 @@
         "Names": [
             {
                 "RowID": "A687F373-502B-4A1C-8AB3-E7DF4A40ECA0",
-                "en-us": "% of Certified Construction Craft Labourer Rate"
+                "en_us": "% of Certified Construction Craft Labourer Rate"
             },
             {
                 "RowID": "B02A59B6-ED51-4501-AE0B-0BE1BA409EAD",
-                "en-us": "Part A (Industrial)"
+                "en_us": "Part A (Industrial)"
             },
             {
                 "RowID": "63838AC5-4E2F-4E16-828B-C01611DCF5BB",
-                "en-us": "Certified Construction Craft Labourer"
+                "en_us": "Certified Construction Craft Labourer"
             },
             {
                 "RowID": "485D151C-2EC8-4AA1-B374-FA3974348A5C",
-                "en-us": "Uncertified Labourer"
+                "en_us": "Uncertified Labourer"
             },
             {
                 "RowID": "34C68478-2133-449C-8EB6-148E075FD9C7",
-                "en-us": "Trainee 3"
+                "en_us": "Trainee 3"
             },
             {
                 "RowID": "19D6930B-2BA3-40B8-AAB8-E5BAE611B504",
-                "en-us": "Trainee 2"
+                "en_us": "Trainee 2"
             },
             {
                 "RowID": "F74E071A-FE30-4912-8A39-992A570828A8",
-                "en-us": "Trainee 1"
+                "en_us": "Trainee 1"
             }
         ],
         "Versions": [
