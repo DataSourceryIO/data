@@ -9,23 +9,23 @@
         "Names": [
             {
                 "RowID": "96E215A4-25BE-4ECD-AC02-AD71138C244E",
-                "en-us": "Canada - EI premium rates and maximums"
+                "en_us": "Canada - EI premium rates and maximums"
             },
             {
                 "RowID": "15D80E7B-408A-458A-AF6A-56F1704C67AB",
-                "en-us": "Maximum annual insurable earnings"
+                "en_us": "Maximum annual insurable earnings"
             },
             {
                 "RowID": "A5A8182F-E6AD-4EB3-89E9-7A3250D5A050",
-                "en-us": "Rate (%)"
+                "en_us": "Rate (%)"
             },
             {
                 "RowID": "0838EB60-2C26-4EBA-8D83-87AB613B47D9",
-                "en-us": "Maximum annual employee premium"
+                "en_us": "Maximum annual employee premium"
             },
             {
                 "RowID": "671E9770-1C5A-486D-8DFD-DD811840FD70",
-                "en-us": "Maximum annual employer premium"
+                "en_us": "Maximum annual employer premium"
             }
         ],
         "Versions": [

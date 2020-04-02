@@ -9,31 +9,31 @@
         "Names": [
             {
                 "RowID": "F7359D72-750E-4F1F-ABE9-A69F72A3B521",
-                "en-us": "Canada - CPP contribution rates, maximums and exemptions"
+                "en_us": "Canada - CPP contribution rates, maximums and exemptions"
             },
             {
                 "RowID": "768FBD91-155D-4A30-BDD0-71696A2353C2",
-                "en-us": "Maximum annual pensionable earnings"
+                "en_us": "Maximum annual pensionable earnings"
             },
             {
                 "RowID": "C27ECFA8-D15B-4DE3-884D-370D390ECA0E",
-                "en-us": "Basic exemption amount"
+                "en_us": "Basic exemption amount"
             },
             {
                 "RowID": "AFE888A8-7B2C-42D7-AEDC-0905E3F581C5",
-                "en-us": "Maximum contributory earnings"
+                "en_us": "Maximum contributory earnings"
             },
             {
                 "RowID": "8C2579DB-6A50-4528-B122-9B68C9015AB1",
-                "en-us": "Employee and employer contribution rate (%)"
+                "en_us": "Employee and employer contribution rate (%)"
             },
             {
                 "RowID": "6EDFD166-CD4A-4BD2-B7C2-172668088D0C",
-                "en-us": "Maximum annual employee and employer contribution"
+                "en_us": "Maximum annual employee and employer contribution"
             },
             {
                 "RowID": "75722813-AB86-41D7-8B95-248A7CAE5ED2",
-                "en-us": "Maximum annual self-employed contribution"
+                "en_us": "Maximum annual self-employed contribution"
             }
         ],
         "Versions": [

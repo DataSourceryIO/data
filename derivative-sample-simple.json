@@ -30,31 +30,31 @@
         "Names": [
             {
                 "RowID": "9FB3A75F-113F-46F5-8E0C-151514BB6958",
-                "en-us": "Base Hourly Wage"
+                "en_us": "Base Hourly Wage"
             },
             {
                 "RowID": "6AE63D1C-AB30-43D3-9FAA-A77419769F34",
-                "en-us": "Statutory Pay"
+                "en_us": "Statutory Pay"
             },
             {
                 "RowID": "D18B89A0-FF18-47C4-831E-F1CF2333EEEE",
-                "en-us": "Insurance Benefit Trust Fund"
+                "en_us": "Insurance Benefit Trust Fund"
             },
             {
                 "RowID": "5E827528-442E-4022-A6B2-0179D83975C6",
-                "en-us": "Pension Trust Fund"
+                "en_us": "Pension Trust Fund"
             },
             {
                 "RowID": "C97FA357-7367-4332-BF07-E77E24A0724A",
-                "en-us": "Education Trust Fund"
+                "en_us": "Education Trust Fund"
             },
             {
                 "RowID": "514B3087-5B58-44B7-B450-DEFF38182E8A",
-                "en-us": "Subtotal A"
+                "en_us": "Subtotal A"
             },
             {
                 "RowID": "BDBC9661-76AE-4C98-8245-27162BE93224",
-                "en-us": "Subtotal B"
+                "en_us": "Subtotal B"
             }
         ],
         "Versions": [
